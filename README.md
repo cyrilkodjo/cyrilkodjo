@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyrilkodjo
-- 👀 I’m interested in SPFx, Azure Cloud and M365 App development
+- 👀 I’m interested in Front-end dev, SPFx, Azure Cloud and M365 App development
 - 🌱 I’m currently learning PowerApps and Azure Cloud
 - 💞️ I’m looking to collaborate on ShaerePoint related development
 - 📫 How to reach me @kojofrimpong on twitter
